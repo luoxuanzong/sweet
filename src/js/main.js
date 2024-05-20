@@ -23,9 +23,9 @@ let words={
 姐姐以后如果心情不好，
 可以随时给我发消息。
 最后愿你天天开心。
-					你的伙伴
-					   落玄	
-				  2024年5月20日`
+		你的伙伴
+		   落玄	
+	  2024年5月20日`
 }
 //获取元素
 let  foreword =document.querySelector('.foreword');
